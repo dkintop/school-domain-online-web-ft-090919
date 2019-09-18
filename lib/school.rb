@@ -28,8 +28,6 @@ class School
     
     end 
     sorted_hash
-      
-    
   end 
   
 
